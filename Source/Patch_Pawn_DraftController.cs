@@ -8,7 +8,7 @@ using Verse;
 namespace HoldTheGrenades
 {
     [HarmonyPatch(typeof(Pawn_DraftController))]
-    [HarmonyPatch("<GetGizmos>b__13_1")]
+    [HarmonyPatch("<GetGizmos>b__15_1")]
     public static class Patch_Pawn_DraftController_GetGizmos_delegate_1
     {
         public static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instructions) 

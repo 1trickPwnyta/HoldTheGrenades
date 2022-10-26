@@ -20,6 +20,9 @@ These vanilla weapons are affected by this mod:
 - Triple rocket launcher
 
 Modded weapons whose projectile creates some kind of AoE explosion should also work.
+
+=== Updates ===
+10/26/2022: Updated to 1.4
 	</description>
 	<url>https://github.com/1trickPonyta/HoldTheGrenades</url>
 	<modDependencies>

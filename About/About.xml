@@ -5,6 +5,7 @@
 	<packageId>holdthegrenades.1trickPonyta</packageId>
 	<supportedVersions>
 		<li>1.4</li>
+		<li>1.5</li>
 	</supportedVersions>
 	<description>
 "Fire at will" defaults to disabled when pawns are drafted if they are equipped with grenades or launchers.
@@ -22,6 +23,7 @@ These vanilla weapons are affected by this mod:
 Modded weapons whose projectile creates some kind of AoE explosion should also work.
 
 === Updates ===
+03/20/2024: Updated to 1.5
 10/26/2022: Updated to 1.4
 	</description>
 	<url>https://github.com/1trickPonyta/HoldTheGrenades</url>

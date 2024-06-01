@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Hold the Grenades</name>
-	<author>1trickPonyta</author>
+	<author>1trickPwnyta</author>
 	<packageId>holdthegrenades.1trickPonyta</packageId>
 	<supportedVersions>
 		<li>1.4</li>
@@ -19,14 +19,16 @@ These vanilla weapons are affected by this mod:
 - EMP launcher
 - Doomsday rocket launcher
 - Triple rocket launcher
+- Incinerator
 
 Modded weapons whose projectile creates some kind of AoE explosion should also work.
 
 === Updates ===
+05/31/2024: Turn off fire at will for incinerator
 03/20/2024: Updated to 1.5
 10/26/2022: Updated to 1.4
 	</description>
-	<url>https://github.com/1trickPonyta/HoldTheGrenades</url>
+	<url>https://github.com/1trickPwnyta/HoldTheGrenades</url>
 	<modDependencies>
 		<li>
 			<packageId>brrainz.harmony</packageId>

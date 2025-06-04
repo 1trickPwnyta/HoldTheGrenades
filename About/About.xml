@@ -3,6 +3,7 @@
 	<name>Hold the Grenades</name>
 	<author>1trickPwnyta</author>
 	<packageId>holdthegrenades.1trickPonyta</packageId>
+	<modVersion IgnoreIfNoMatchingField="True">1.2.3</modVersion>
 	<supportedVersions>
 		<li>1.3</li>
 		<li>1.4</li>
@@ -25,10 +26,14 @@ These vanilla weapons are affected by this mod:
 Modded weapons whose projectile creates some kind of AoE explosion should also work.
 
 === Updates ===
+06/03/2025: Fix caravan ambush not disabling fire at will
 08/05/2024: Restore 1.3 support
 05/31/2024: Turn off fire at will for incinerator
 03/20/2024: Updated to 1.5
 10/26/2022: Updated to 1.4
+
+=== Credits ===
+Mod icon: twitter.com/mouse_draws
 	</description>
 	<url>https://github.com/1trickPwnyta/HoldTheGrenades</url>
 	<modDependencies>

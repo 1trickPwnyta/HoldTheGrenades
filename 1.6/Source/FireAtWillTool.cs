@@ -8,7 +8,7 @@ namespace HoldTheGrenades
         {
             if (pawn.Drafted)
             {
-                if (pawn.equipment?.Primary?.def?.Verbs?.Any((v) => (v.defaultProjectile != null && v.defaultProjectile.projectile.explosionRadius > 0.1f) || v.beamWidth > 1f) == true)             
+                if (HoldTheGrenadesSettings.NoFireAtWill.Contains(pawn.equipment?.Primary?.def))             
                 {
                     pawn.drafter.FireAtWill = false;
                 }

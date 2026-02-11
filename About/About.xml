@@ -10,12 +10,14 @@
 		<li>1.5</li>
 		<li>1.6</li>
 	</supportedVersions>
-	<description>
-"Fire at will" defaults to disabled when pawns are drafted if they are equipped with grenades or launchers.
+	<description><![CDATA["Fire at will" defaults to disabled when pawns are drafted if they are equipped with grenades or launchers.
 
 Such weapons are selected by default to disable Fire at will, but in the mod settings you can pick the exact weapons that you want this behavior for.
 
-=== Updates ===
+________________________________________________
+
+<size=18px><color=#5aa9d6>Updates</color></size>
+
 02/11/2026: Add mod settings to select which weapons are affected
 06/12/2025: Updated to 1.6
 06/03/2025: Fix caravan ambush not disabling fire at will
@@ -24,9 +26,10 @@ Such weapons are selected by default to disable Fire at will, but in the mod set
 03/20/2024: Updated to 1.5
 10/26/2022: Updated to 1.4
 
-=== Credits ===
-Mod icon: twitter.com/mouse_draws
-	</description>
+<size=18px><color=#5aa9d6>Credits</color></size>
+
+  &#8226; Mod icon: twitter.com/mouse_draws
+	]]></description>
 	<url>https://github.com/1trickPwnyta/HoldTheGrenades</url>
 	<modDependencies>
 		<li>
